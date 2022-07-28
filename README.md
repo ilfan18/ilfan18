@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
-  Hi there 👋
+  Hi there 👋<br/>
   My name is Ilfan and I’m web-developer
 </div>
 
