@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <div id="badges">
-    <a href="https://t.me/ilfan_m">
+    <a href="https://t.me/ilfan_m" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
