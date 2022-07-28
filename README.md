@@ -1,8 +1,12 @@
-### Hi there 👋
-My name is Ilfan and I’m web-developer
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
+<div id="header" align="center">
+### Hi there 👋
+My name is Ilfan and I’m web-developer
+</div>
+
 <!--
 **ilfan18/ilfan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
