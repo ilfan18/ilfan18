@@ -1,15 +1,13 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-<div id="badges">
-  <a href="https://t.me/ilfan_m">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
-<div id="header" align="center">
-Hi there 👋
-My name is Ilfan and I’m web-developer
+  <div id="badges">
+    <a href="https://t.me/ilfan_m">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+  </div>
+  Hi there 👋
+  My name is Ilfan and I’m web-developer
 </div>
 
 <!--
