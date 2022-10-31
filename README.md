@@ -16,5 +16,4 @@
 ```
 https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B
 ```
-<img alig src="[https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C](https://github-profile-trophy.vercel.app/?username=ilfan18" />
-</p>
+<img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C](https://github-profile-trophy.vercel.app/?username=ilfan18"/>
