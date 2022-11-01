@@ -5,8 +5,9 @@
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
-  Hi there 👋<br/>
+  <h2>Hi there 👋<br/>
   My name is Ilfan and I’m web-developer
+  </h2>
 </div>
 <div align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ilfan18&theme=monokai&column=4&margin-w=15&margin-h=15&title=Joined2020,Commits,Repositories,PullRequest" />
