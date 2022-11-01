@@ -1,7 +1,7 @@
-<div align="center" margin-bottom="50">
+<div align="center" style="margin-bottom:50px;">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ilfan18&theme=monokai&column=4&margin-w=15&margin-h=15" />
 </div>
-<div align="center">
+<div align="center" style="margin-bottom:50px;">
   <img alig src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilfan18&theme=monokai" />
 </div>
 <div align="center">
